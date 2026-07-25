@@ -2,4 +2,4 @@
 
 ![alt text](expenses-dev-terraform.jpg)
 
-![alt text](expenses-dev.jpg)
+![alt text](expense-dev.jpg)
